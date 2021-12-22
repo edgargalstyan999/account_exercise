@@ -19,3 +19,21 @@ code {
 .center_component{
   display: block;
 }
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 10px 15px;
+}
+.comp_table{
+  width: 80%;
+  margin: 10vw auto;
+
+}
+
+
